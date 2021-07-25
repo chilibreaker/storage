@@ -1,4 +1,4 @@
-module github.com/chartmuseum/storage
+module github.com/chilibreaker/storage
 
 go 1.15
 
